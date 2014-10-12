@@ -1,0 +1,5 @@
+{
+	"cmd": ["node-webkit", "--enable-logging", "${project_path:${file_path}}"],
+    "working_dir": "${project_path:${file_path}}",
+    "path": "/Applications/node-webkit.app/Contents/MacOS/"
+}

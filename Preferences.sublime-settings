@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"ignored_packages":
+	[
+		"DashDoc",
+		"SublimeGit",
+		"Vintage",
+		"SublimeCodeIntel",
+		"GitGutter"
+	],
+	"scroll_past_end": true
+}

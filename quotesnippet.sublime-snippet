@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<quote>
+    <text>$1</text>
+    <author>$2</author>
+    <year>$3</year>
+</quote>
+
+]]></content>
+   <tabTrigger>newquote</tabTrigger>
+</snippet>
